@@ -2,7 +2,7 @@
 
 Equipo de trabajo
 
-**Andrea Perez Domíngues** **Cédula:** 1037661887  **Programa** Ingenieria Industrial
+**Andrea Perez Domínguez** **Cédula:** 1037661887  **Programa** Ingenieria Industrial
 
 **Nicolle Serna Trespalacios** **Cédula:** 1001505960  **Programa** Ingenieria Sanitaria
 
