@@ -6,5 +6,5 @@ Equipo de trabajo
 
 **Nicolle Serna Trespalacios** **Cédula:** 1001505960  **Programa** Ingenieria Sanitaria
 
-**Bryan Giraldo Dominguez** **Cédula:** 1152457551  **Programa** Ingenieria de Sistemas.
+**Bryan Giraldo Quintero** **Cédula:** 1152457551  **Programa** Ingenieria de Sistemas.
 
