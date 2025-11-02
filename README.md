@@ -8,3 +8,9 @@ Equipo de trabajo
 
 **Bryan Giraldo Quintero** **Cédula:** 1152457551  **Programa** Ingenieria de Sistemas.
 
+Este repositorio contiene el archivo:
+01 - exploración.ipynb correspondiente a la **Entrega parcial #1**
+02 - preprocesamiento.ipynb correspondiente a la **Entrega parcial #2**
+Y el enlace directo a el video de youtube https://youtu.be/GNcdxSJlxgM donde se explica la exploración de la segunda
+entrga parcial.
+
